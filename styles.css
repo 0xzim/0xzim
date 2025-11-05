@@ -1,1 +1,18 @@
 /* css styles */
+
+body,
+.navbar {
+  /* font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; */
+  /* line-height: 1.6; */
+  /* color: #333; */
+  /* background-color: #f9f9f9; */
+  max-width: 1200px;
+  background: transparent;
+
+  /* center horizontally: top/bottom margin 2rem, left/right auto */
+  margin: 1rem auto;
+  /* ensure padding/border are included in width calculations */
+  box-sizing: border-box;
+
+  padding: 0;
+}
