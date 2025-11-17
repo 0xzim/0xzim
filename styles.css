@@ -17,3 +17,16 @@
     text-transform: lowercase !important;
     border: none !important;
 }
+
+.quarto-post{
+    display: flex !important;
+    justify-content: flex-end !important;
+    align-items: center !important;
+    margin-bottom: 1.5em;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.quarto-post > *{
+    flex: 0 0 auto !important;
+    width: auto !important; 
+}
