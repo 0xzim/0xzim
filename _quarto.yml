@@ -2,24 +2,15 @@ project:
   type: website
 
 website:
-  title: "Zim"
-  favicon: images/favicon.jpg
-  navbar:
-    right:
-      - about.qmd
-      # - icon: github
-      #   href: https://github.com/
-      # - icon: twitter
-      #   href: https://twitter.com
-  page-footer:
-    left: Copyright © 2025 Zimuzo Obi
-    right: Built with Quarto
+  # title: "Zim"
+  favicon: images/favicon.jpg            # disables search
 format:
   html:
     theme:
-      - Lux
+      - Ubuntu
       - brand
     css: styles.css
+
 
 
 
