@@ -1,11 +1,11 @@
 /* css styles */
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&display=swap');
 
 * {
     box-sizing: border-box;
     font-optical-sizing: auto;
-    font-size: .9rem;
     text-align: left;
-    color: #000 !important;
+    font-family: "News Cycle", sans-serif;
 }
 
 
@@ -21,12 +21,21 @@
 .quarto-post{
     display: flex !important;
     justify-content: flex-end !important;
-    align-items: center !important;
-    margin-bottom: 1.5em;
+    margin-bottom: 1rem;
     border-bottom: 1px solid #dee2e6;
 }
 
 .quarto-post > *{
     flex: 0 0 auto !important;
     width: auto !important; 
+}
+
+.quarto-post .metadata, .quarto-post .listing-title{
+    font-size: 1em !important;
+}
+
+@media screen and (min-width: 767.98px) {
+.quarto-post{
+    align-items: center !important;
+}
 }

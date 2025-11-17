@@ -5,7 +5,7 @@ website:
 format:
   html:
     theme:
-      - journal
+      - cosmo
       - brand
     css: styles.css
 
