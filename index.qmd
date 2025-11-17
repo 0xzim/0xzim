@@ -1,36 +1,44 @@
 ---
-title: "Finley Malloc"
+title: "Zimuzo Obi"
 about:
   id: hero-heading
   template: solana
 #   image: profile.jpg
-  links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
+#   links:
+#     - icon: twitter
+#       text: twitter
+#       href: https://twitter.com
+#     - icon: github
+#       text: Github
+#       href: https://github.com
 ---
 
 :::{#hero-heading}
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Zimuzo Obi is a Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+A Data and Business Intelligence Analyst with a solid foundation in Azure Machine Learning Studio, SQL Server management, and data analysis. Adept at leveraging Power BI, SQL and Excel to transform complex datasets into actionable business insights. Proven ability to enhance profitability and support BI tool optimization. Strong analytical skills and business acumen to identify trends and drive strategic decision-making.
 
-## Education
+[View my resume]()
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+
+#### Connect with me
+[📧 Message me](obizimuzo@gmail.com), [🏢 LinkedIn](https://www.linkedin.com/in/zimobi/), [🦉 Github](https://github.com/0xzim), [🐦 Twitter](https://x.com/zimway_)
 
 Macalester College | St. Paul, MN
 B.A in Economics | Sept 2007 - June 2011
 
-## Experience
+## Projects
 
 Wengo Analytics | Head Data Scientist | April 2018 - present
 
 GeoScynce | Chief Analyst | Sept 2012 - April 2018
 
-:::
 
-### This content appears below the formatted about page content.
+## Writings
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Sept 2012 - April 2018
+
+[View all](blog.qmd)
+
+:::

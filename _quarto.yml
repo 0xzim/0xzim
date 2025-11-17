@@ -7,7 +7,7 @@ website:
 format:
   html:
     theme:
-      - Ubuntu
+      - journal
       - brand
     css: styles.css
 
