@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/0xzim/0xzim.github.io/posts/welcome/index.html</loc>
-    <lastmod>2025-11-20T15:07:06.548Z</lastmod>
+    <loc>https://github.com/0xzim/0xzim.github.io/blog.html</loc>
+    <lastmod>2025-11-20T17:55:29.359Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/0xzim/0xzim.github.io/posts/be-shameless/index.html</loc>
-    <lastmod>2025-11-20T15:07:06.544Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/0xzim/0xzim.github.io/blog.html</loc>
-    <lastmod>2025-11-20T15:07:06.532Z</lastmod>
+    <lastmod>2025-11-20T17:55:29.360Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/0xzim/0xzim.github.io/index.html</loc>
-    <lastmod>2025-11-20T15:07:06.539Z</lastmod>
+    <lastmod>2025-11-20T17:55:29.360Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/0xzim/0xzim.github.io/posts/neural-networks/index.html</loc>
-    <lastmod>2025-11-20T15:07:06.545Z</lastmod>
+    <lastmod>2025-11-20T17:55:29.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/0xzim/0xzim.github.io/posts/welcome/index.html</loc>
+    <lastmod>2025-11-20T17:55:29.360Z</lastmod>
   </url>
 </urlset>
