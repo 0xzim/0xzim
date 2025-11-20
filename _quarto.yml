@@ -1,8 +1,10 @@
 project:
   type: website
 website:
-  site-url: "https://your-domain.com" 
-  repo-url: "https://github.com/0xzim"
+  title: "Zimuzo Obi"
+  description: "Data Scientist"
+  site-url: "https://github.com/0xzim/0xzim.github.io" 
+  repo-url: "https://github.com/0xzim/0xzim"
   favicon: images/favicon.jpg
   page-footer: 
     left: "<script>document.write('© Copyright ' + new Date().getFullYear() + ' Zimuzo Obi');</script>"
@@ -13,18 +15,14 @@ website:
         href: https://twitter.com/zimway_
       - icon: linkedin
         href: https://www.linkedin.com/in/zimobi/
-
-  
   # --- SOCIAL CARDS (Twitter / OpenGraph) ---
   open-graph: true
   twitter-card:
+    card-style: summary
     creator: "@zimway_"
     site: "@zimway_"
-
   # --- SITEMAP & ROBOTS ---
-
-  google-analytics: ""  # Add tracking ID if you want
-  
+  google-analytics: ""  # Remeber to add the ID
 format:
   html:
     theme:
@@ -32,6 +30,10 @@ format:
       - brand
     css: styles.css
     smooth-scroll: true
+publish:
+  gh-pages:
+    branch: gh-pages
+    workflow: true
 
 
 

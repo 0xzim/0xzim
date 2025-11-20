@@ -16,7 +16,7 @@ listing:
 
 Data Scientist. Writer. 
 
-`#analyst #engineer #businessintelligence`
+`Pursuing a Master of Science (MSc) in Data Science`
 
 I never imagined data would become my creative outlet, but somewhere between a messy spreadsheet and a late-night project, I realised turning chaos into clarity isn't too bad.
 
@@ -24,22 +24,21 @@ My goal is simple: make life easy, learn every day, and show up with intention.
 
 ##### **Connect with me**
 [📧 Message me](mailto:obizimuzo@gmail.com), 
-[🏢 LinkedIn](https://www.linkedin.com/in/zimobi/), 
-[🦉 Github](https://github.com/0xzim), 
-[🐦 Twitter](https://x.com/zimway_)
+[🏢 LinkedIn](https://www.linkedin.com/in/zimobi/){target="_blank"}, 
+[🦉 Github](https://github.com/0xzim){target="_blank"}, 
+[🐦 Twitter](https://x.com/zimway_){target="_blank"}
 
 :::
 
 ## Projects
-[Machine Learning Projects]()
+[Machine Learning Projects](){target="_blank"}
 
-[Cyclistic Analysis](https://0xzim.github.io/cyclistic/)
+[Cyclistic Analysis](https://0xzim.github.io/cyclistic/){target="_blank"}
 
-[Export Performance Analysis](https://app.powerbi.com/view?r=eyJrIjoiNGFiZWJlODItMWVmMi00YzI1LWFlMzgtMjAwM2JiYzczN2Y1IiwidCI6IjBiOGEyNWY5LTg3ZWItNDAzYi04OWU0LTJhNTZlMjJhZGUzYSJ9)
+[Export Performance Analysis](https://app.powerbi.com/view?r=eyJrIjoiNGFiZWJlODItMWVmMi00YzI1LWFlMzgtMjAwM2JiYzczN2Y1IiwidCI6IjBiOGEyNWY5LTg3ZWItNDAzYi04OWU0LTJhNTZlMjJhZGUzYSJ9){target="_blank"}
 
 ## Writings
 
 :::{#writings-listing}
 :::
-
 [View all writings →](blog.qmd)

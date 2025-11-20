@@ -1,11 +1,11 @@
 /* css styles */
-@import url('https://fonts.googleapis.com/css2?family=TikTok+Sans:opsz,wght@12..36,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
 
 * {
     box-sizing: border-box;
     font-optical-sizing: auto;
     text-align: left;
-    font-family: "TikTok Sans", sans-serif;
+    font-family: "Bricolage Grotesque", sans-serif;
     text-underline-offset: .25rem !important;
 }
 
@@ -23,6 +23,7 @@
     display: flex !important;
     justify-content: flex-end !important;
     border-bottom: none !important;
+    margin-bottom: .2rem !important;
 }
 
 .quarto-post > *{
@@ -42,5 +43,6 @@
 @media screen and (min-width: 767.98px) {
 .quarto-post{
     align-items: center !important;
+    margin-bottom: 1.5rem !important;
 }
 }
