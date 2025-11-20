@@ -2,6 +2,15 @@ project:
   type: website
 website:
   favicon: images/favicon.jpg
+  page-footer: 
+    left: "<script>document.write('© Copyright ' + new Date().getFullYear() + ' Zimuzo Obi');</script>"
+    right:
+      - icon: github
+        href: https://github.com/0xzim
+      - icon: twitter 
+        href: https://twitter.com/zimway_
+      - icon: linkedin
+        href: https://www.linkedin.com/in/zimobi/
 format:
   html:
     theme:

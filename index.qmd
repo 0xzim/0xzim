@@ -3,35 +3,43 @@ title: "Zimuzo Obi"
 about:
   id: hero-heading
   template: solana
+listing:
+  id: writings-listing
+  contents: posts
+  sort: "date desc"
+  max-items: 3
+  type: default
+  fields: [title, date]
 ---
 
 :::{#hero-heading}
 
 Data Scientist/Analyst
 
-``` #analyst #engineer #businessintelligence```
+`#analyst #engineer #businessintelligence`
 
-I never imagined data would become my creative outlet, but somewhere between a messy spreadsheet and a late-night project, I realised I turning chaos into clarity isn't too bad.
+I never imagined data would become my creative outlet, but somewhere between a messy spreadsheet and a late-night project, I realised turning chaos into clarity isn't too bad.
 
 My goal is simple: make life easy, learn every day, and show up with intention.
 
-#### Connect with me
-[📧 Message me](obizimuzo@gmail.com), [🏢 LinkedIn](https://www.linkedin.com/in/zimobi/), [🦉 Github](https://github.com/0xzim), [🐦 Twitter](https://x.com/zimway_)
+##### **Connect with me**
+[📧 Message me](mailto:obizimuzo@gmail.com), 
+[🏢 LinkedIn](https://www.linkedin.com/in/zimobi/), 
+[🦉 Github](https://github.com/0xzim), 
+[🐦 Twitter](https://x.com/zimway_)
 
+:::
 
 ## Projects
 [Machine Learning Projects]()
 
-[Cyclistic - How does a bike-share navigate speedy success?](https://0xzim.github.io/cyclistic/)
+[Cyclistic Analysis](https://0xzim.github.io/cyclistic/)
 
-[Export Performance Analysis](https://app.powerbi.com/viewr=eyJrIjoiNGFiZWJlODItMWVmMi00YzI1LWFlMzgtMjAwM2JiYzczN2Y1IiwidCI6IjBiOGEyNWY5LTg3ZWItNDAzYi04OWU0LTJhNTZlMjJhZGUzYSJ9)
-
+[Export Performance Analysis](https://app.powerbi.com/view?r=eyJrIjoiNGFiZWJlODItMWVmMi00YzI1LWFlMzgtMjAwM2JiYzczN2Y1IiwidCI6IjBiOGEyNWY5LTg3ZWItNDAzYi04OWU0LTJhNTZlMjJhZGUzYSJ9)
 
 ## Writings
-Wengo Analytics | Head Data Scientist | April 2018 - present
 
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-[View all writings](blog.qmd)
-
+:::{#writings-listing}
 :::
+
+[View all writings →](blog.qmd)

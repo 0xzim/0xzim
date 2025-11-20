@@ -1,0 +1,39 @@
+---
+title: "Notes on Neural Networks"
+author: "Zimuzo Obi"
+date: "2025-11-17"
+---
+
+ANN  are computational connectionist models  inspired by the biological brain and nervous system
+
+Components of ANNs
+	1. Neurons 
+	2. Synapses 
+	3. Topology
+
+The learning happens in the weight not the nodes. When two neurons interact, the connection becomes stronger.
+
+
+There are different types of network topologies
+	1. Fully-connected: Every neuron is connected to every other neuron (e.g., Hopfield nets, Boltzmann machines).
+	2. Feed-forward networks: The most common type, where information flows in one direction (uni-directional) from the Input layer, through Hidden layer(s), to the Output layer.
+	3. Recurrent networks: Include feedback connections and are used for modelling time-varying signals (e.g., RNNs).
+
+The Perceptrons: 
+Given the inputs C, multiply by weights w, take the sum and if sum exceeds a threshold, the perceptron fires and generates 1; else 0. It is essentially a binary classsifier.
+
+Activation Functions
+The activation function (or transfer function) is crucial as it generates the output of each neuron by transforming the weighted summed input.
+
+Linear vs. Non-linear Activation
+	• Linear (e.g., Threshold/Step Function): Used in early networks like the Perceptron. Even stacking multiple linear perceptron layers results in an overall linear combination, which can be collapsed into a single linear equation.
+	• Non-linear: Essential for modelling non-linear relationships in the data. They warp, twist, and turn the input feature space non-linearly, which is necessary to solve complex problems like XOR
+
+Types of neural networks 
+
+
+
+Why deep learning: 
+	1. Modularisation, less training data 
+Data is usually hierarchical, we can build up hierarchies of data representation and that is why depth should be good. 
+
