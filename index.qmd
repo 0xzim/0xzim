@@ -14,7 +14,7 @@ listing:
 
 :::{#hero-heading}
 
-Data Scientist/Analyst
+Data Scientist. Writer. 
 
 `#analyst #engineer #businessintelligence`
 
