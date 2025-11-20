@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/be-shameless/index.html",
+      "/posts/neural-networks/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/be-shameless/index.html",
+      "/posts/neural-networks/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/be-shameless/index.html",
+    "href": "posts/be-shameless/index.html",
+    "title": "You need to be shameless",
+    "section": "",
+    "text": "I have realized how much of things I don’t get is due to me being ashamed hahaha"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Writings",
+    "section": "",
+    "text": "You need to be shameless\n\n\n\n\n\nNov 20, 2025\n\n\n\n\n\n\n\nNotes on Neural Networks\n\n\n\n\n\nNov 17, 2025\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\nOct 28, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zimuzo Obi",
+    "section": "",
+    "text": "Data Scientist. Writer.\nPursuing a Master of Science (MSc) in Data Science\nI never imagined data would become my creative outlet, but somewhere between a messy spreadsheet and a late-night project, I realised turning chaos into clarity isn’t too bad.\nMy goal is simple: make life easy, learn every day, and show up with intention.\n\n\n📧 Message me, 🏢 LinkedIn, 🦉 Github, 🐦 Twitter"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Zimuzo Obi",
+    "section": "Projects",
+    "text": "Projects\nMachine Learning Projects\nCyclistic Analysis\nExport Performance Analysis"
+  },
+  {
+    "objectID": "index.html#writings",
+    "href": "index.html#writings",
+    "title": "Zimuzo Obi",
+    "section": "Writings",
+    "text": "Writings\n\n\n\n\n\nYou need to be shameless\n\n\n\n\n\nNov 20, 2025\n\n\n\n\n\n\n\nNotes on Neural Networks\n\n\n\n\n\nNov 17, 2025\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\nOct 28, 2025\n\n\n\n\n\nNo matching items\n\nView all writings →"
+  },
+  {
+    "objectID": "posts/neural-networks/index.html",
+    "href": "posts/neural-networks/index.html",
+    "title": "Notes on Neural Networks",
+    "section": "",
+    "text": "ANN are computational connectionist models inspired by the biological brain and nervous system\nComponents of ANNs 1. Neurons 2. Synapses 3. Topology\nThe learning happens in the weight not the nodes. When two neurons interact, the connection becomes stronger.\nThere are different types of network topologies 1. Fully-connected: Every neuron is connected to every other neuron (e.g., Hopfield nets, Boltzmann machines). 2. Feed-forward networks: The most common type, where information flows in one direction (uni-directional) from the Input layer, through Hidden layer(s), to the Output layer. 3. Recurrent networks: Include feedback connections and are used for modelling time-varying signals (e.g., RNNs).\nThe Perceptrons: Given the inputs C, multiply by weights w, take the sum and if sum exceeds a threshold, the perceptron fires and generates 1; else 0. It is essentially a binary classsifier.\nActivation Functions The activation function (or transfer function) is crucial as it generates the output of each neuron by transforming the weighted summed input.\nLinear vs. Non-linear Activation • Linear (e.g., Threshold/Step Function): Used in early networks like the Perceptron. Even stacking multiple linear perceptron layers results in an overall linear combination, which can be collapsed into a single linear equation. • Non-linear: Essential for modelling non-linear relationships in the data. They warp, twist, and turn the input feature space non-linearly, which is necessary to solve complex problems like XOR\nTypes of neural networks\nWhy deep learning: 1. Modularisation, less training data Data is usually hierarchical, we can build up hierarchies of data representation and that is why depth should be good."
+  }
+]

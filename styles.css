@@ -1,0 +1,48 @@
+/* css styles */
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-optical-sizing: auto;
+    text-align: left;
+    font-family: "Bricolage Grotesque", sans-serif;
+    text-underline-offset: .25rem !important;
+}
+
+
+.quarto-title-banner{
+    color: inherit;
+    background-color: transparent;
+}
+.quarto-categories, .quarto-category{
+    text-transform: lowercase !important;
+    border: none !important;
+}
+
+.quarto-post{
+    display: flex !important;
+    justify-content: flex-end !important;
+    border-bottom: none !important;
+    margin-bottom: .2rem !important;
+}
+
+.quarto-post > *{
+    flex: 0 0 auto !important;
+    width: auto !important; 
+}
+
+.quarto-post .listing-title{
+    font-size: 1rem !important;
+    text-decoration: underline !important;
+}
+
+/* .quarto-post .metadata{
+    font-size: .8em !important;
+} */
+
+@media screen and (min-width: 767.98px) {
+.quarto-post{
+    align-items: center !important;
+    margin-bottom: 1.5rem !important;
+}
+}
