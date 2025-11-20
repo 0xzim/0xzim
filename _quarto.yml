@@ -1,6 +1,8 @@
 project:
   type: website
 website:
+  site-url: "https://your-domain.com" 
+  repo-url: "https://github.com/0xzim"
   favicon: images/favicon.jpg
   page-footer: 
     left: "<script>document.write('© Copyright ' + new Date().getFullYear() + ' Zimuzo Obi');</script>"
@@ -11,12 +13,25 @@ website:
         href: https://twitter.com/zimway_
       - icon: linkedin
         href: https://www.linkedin.com/in/zimobi/
+
+  
+  # --- SOCIAL CARDS (Twitter / OpenGraph) ---
+  open-graph: true
+  twitter-card:
+    creator: "@zimway_"
+    site: "@zimway_"
+
+  # --- SITEMAP & ROBOTS ---
+
+  google-analytics: ""  # Add tracking ID if you want
+  
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
+    smooth-scroll: true
 
 
 
