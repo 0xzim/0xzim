@@ -1,15 +1,16 @@
 /* css styles */
-@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Pavanam&display=swap');
 * {
     box-sizing: border-box;
     font-optical-sizing: auto;
     text-align: left;
-    font-family: "Figtree", sans-serif;
+    font-family: "Pavanam", sans-serif;
     text-underline-offset: .25rem !important;
 }
 
-
+code {
+    font-family: inherit !important;
+}
 .quarto-title-banner{
     color: inherit;
     background-color: transparent;
@@ -36,9 +37,9 @@
     text-decoration: underline !important;
 }
 
-/* .quarto-post .metadata{
-    font-size: .8em !important;
-} */
+.quarto-post .metadata{
+    font-size: .85em !important;
+}
 
 @media screen and (min-width: 767.98px) {
 .quarto-post{
