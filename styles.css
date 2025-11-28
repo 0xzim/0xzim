@@ -1,10 +1,10 @@
 /* css styles */
-@import url('https://fonts.googleapis.com/css2?family=Pavanam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap');
 * {
     box-sizing: border-box;
     font-optical-sizing: auto;
     text-align: left;
-    font-family: "Pavanam", sans-serif;
+    font-family: "Red Hat Text", sans-serif;
     text-underline-offset: .25rem !important;
 }
 
