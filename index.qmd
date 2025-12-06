@@ -31,7 +31,7 @@ My goal is simple: make life easy, learn every day, and show up with intention.
 :::
 
 ## Projects
-[Machine Learning Projects](){target="_blank"}
+[Machine Learning Projects](https://github.com/0xzim/ml-challenges){target="_blank"}
 
 [Cyclistic Analysis](https://0xzim.github.io/cyclistic/){target="_blank"}
 
