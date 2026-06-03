@@ -2,17 +2,13 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/a-little-life/index.html",
-      "/posts/be-shameless/index.html",
-      "/posts/neural-networks/index.html"
+      "/posts/a-little-life/index.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/posts/a-little-life/index.html",
-      "/posts/be-shameless/index.html",
-      "/posts/neural-networks/index.html"
+      "/posts/a-little-life/index.html"
     ]
   }
 ]
