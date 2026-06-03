@@ -34,7 +34,14 @@ code {
 
 .quarto-post .listing-title{
     font-size: 1rem !important;
+}
+.quarto-post .listing-title:hover{
     text-decoration: underline !important;
+    transition: text-decoration 0.5s ease-in-out !important;
+}
+
+.quarto-title .title{
+    color: black !important;
 }
 
 .quarto-post .metadata{

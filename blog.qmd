@@ -1,9 +1,10 @@
 ---
-title: "Writings"
+title: "Writings:"
 
 listing:
   contents: posts
-  sort: "date desc"
+  sort: "created desc"
+  date-format: "DD/MM/YYYY"
   type: default
   fields: [title, date]
   categories: false

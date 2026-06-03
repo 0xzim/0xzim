@@ -6,15 +6,15 @@ website:
   site-url: "https://github.com/0xzim/0xzim.github.io" 
   repo-url: "https://github.com/0xzim/0xzim"
   favicon: images/favicon.jpg
-  page-footer: 
-    left: "<script>document.write('© Copyright ' + new Date().getFullYear() + ' Zimuzo Obi');</script>"
-    right:
-      - icon: github
-        href: https://github.com/0xzim
-      - icon: twitter 
-        href: https://twitter.com/zimway_
-      - icon: linkedin
-        href: https://www.linkedin.com/in/zimobi/
+  # page-footer: 
+  #   left: "<script>document.write('© Copyright ' + new Date().getFullYear() + ' Zimuzo Obi');</script>"
+  #   right:
+  #     - icon: github
+  #       href: https://github.com/0xzim
+  #     - icon: twitter 
+  #       href: https://twitter.com/zimway_
+  #     - icon: linkedin
+  #       href: https://www.linkedin.com/in/zimobi/
   # --- SOCIAL CARDS (Twitter / OpenGraph) ---
   open-graph: true
   twitter-card:
@@ -26,7 +26,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - flatly
       - brand
     css: styles.css
     smooth-scroll: true
@@ -34,7 +34,6 @@ publish:
   gh-pages:
     branch: gh-pages
     workflow: true
-
 
 
 
