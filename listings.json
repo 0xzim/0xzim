@@ -1,14 +1,16 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/index.html",
     "items": [
+      "/posts/my-first-hackathon/index.html",
       "/posts/a-little-life/index.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/blog.html",
     "items": [
-      "/posts/a-little-life/index.html"
+      "/posts/a-little-life/index.html",
+      "/posts/my-first-hackathon/index.html"
     ]
   }
 ]
