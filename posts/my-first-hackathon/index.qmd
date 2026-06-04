@@ -29,7 +29,7 @@ I think we failed to win as other teams were more creative with their visual pre
 
 Overall, it was a great experience and I learned a lot. One thing I really figured out was that I don't utilise AI enough but we live and we learn.  I would definitely participate in another hackathon in the future. It’s a great way to learn, network, and have fun.
 
-You can view our presentation [here](hackathon_slides.pptx){target="_blank"}.
+You can view our presentation slides [here](hackathon_slides.pptx){target="_blank"}.
 
 Here are some pictures from the day:
 

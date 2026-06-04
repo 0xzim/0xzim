@@ -17,7 +17,13 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render and Publish
+      - name: Render site
+        run: quarto render
+
+      - name: Add CNAME
+        run: echo "obizimuzo.com" > _site/CNAME
+
+      - name: Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
