@@ -20,10 +20,7 @@ I never imagined data would become my creative outlet, but somewhere between a m
 
 My goal is simple: make life easy, learn every day, and show up with intention. This medium is for documenting my journey, sharing what I learn, and connecting with others who are on a similar path. Whether it's a new technique, a project I'm proud of, or just a thought that popped into my head, you'll find it here.
 
-##### **Connect with me:**
-[Email](mailto:obizimuzo@gmail.com), 
-[LinkedIn](https://www.linkedin.com/in/zimobi/){target="_blank"}, 
-[Github](https://github.com/0xzim){target="_blank"}
+To get in contact, you can send an [email](mailto:obizimuzo@gmail.com), connect with me on [linkedIn](https://www.linkedin.com/in/zimobi/){target="_blank"}, or see my code contributions on [github](https://github.com/0xzim){target="_blank"}
 
 <!-- :::
 

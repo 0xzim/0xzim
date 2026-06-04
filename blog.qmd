@@ -3,7 +3,7 @@ title: "Writings:"
 
 listing:
   contents: posts
-  sort: "created desc"
+  sort: "date desc"
   date-format: "DD/MM/YYYY"
   type: default
   fields: [title, date]
