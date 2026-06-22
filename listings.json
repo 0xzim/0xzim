@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/you-need-luck/index.html",
       "/posts/my-first-hackathon/index.html",
       "/posts/a-little-life/index.html"
     ]
@@ -9,6 +10,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/you-need-luck/index.html",
       "/posts/my-first-hackathon/index.html",
       "/posts/a-little-life/index.html"
     ]
