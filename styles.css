@@ -5,11 +5,16 @@
 * {
     box-sizing: border-box;
     font-optical-sizing: auto;
-    text-align: left;
+    text-align: justify;
     font-family: "Inconsolata", monospace;
     font-family: "TikTok Sans", sans-serif;
     text-underline-offset: .25rem !important;
-    line-height: 1.9 !important;
+    line-height: 1.8 !important;
+    font-size: .9rem;
+}
+
+h1{
+  font-size: 1.2rem !important;
 }
 
 .group{
@@ -60,7 +65,7 @@ code {
 @media screen and (min-width: 767.98px) {
 .quarto-post{
     align-items: center !important;
-    margin-bottom: .8rem !important;
+    /* margin-bottom: .8rem !important; */
 }
 }
 
