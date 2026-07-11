@@ -11,7 +11,7 @@ Truth be told, I wasn't nervous at all because what's the worst that can happen?
 
 On the day of the hackathon, teams were created and I was in a team with 3 other people (teams must consist of at least one person from a different course).
 
-![Team formation criteria](hackathon.JPG){fig-cap="Hackathon team formation criteria"}
+![Team formation criteria](hackathon.JPG){fig-alt="Hackathon team formation criteria" fig-cap="Hackathon team formation criteria"}
 
 #### **The Challenge:**
 The core challenge is:
@@ -20,7 +20,7 @@ The core challenge is:
 
 It’s about interpreting AI‑generated narratives and understanding what they say about culture, geography, inequality, safety, emotions, stereotypes, urban life and then communicating those insights clearly and creatively.
 
-![Hackathon Challenge](challenge.JPG){fig-cap="Hackathon Challenge"}
+![Hackathon Challenge](challenge.JPG){fig-alt="Hackathon Challenge" fig-cap="Hackathon Challenge"}
 
 I was lucky to be in a great team as we were able to tackle the problem together and come up with great insights. We all had a lot of fun working together and learning from each other. We made the top 3 that will get to present their solution in front of the whole students and panel. 
 I'm exceptionally proud of what we achieved and the storytelling behind it as that was where our project really shined. 
@@ -29,16 +29,16 @@ I think we failed to win as other teams were more creative with their visual pre
 
 Overall, it was a great experience and I learned a lot. One thing I really figured out was that I don't utilise AI enough but we live and we learn.  I would definitely participate in another hackathon in the future. It’s a great way to learn, network, and have fun.
 
-You can view our presentation slides [here](hackathon_slides.pptx){target="_blank"}.
+You can view our [presentation slides](hackathon_slides.pptx){target="_blank"}.
 
 Here are some pictures from the day:
 
 ::: {.grid-2}
-![Zimuzo presenting](Presentation.JPG){fig-cap="Zimuzo presenting the project during the day of the hackathon"}
+![Zimuzo presenting](Presentation.JPG){fig-alt="Zimuzo presenting the project during the day of the hackathon" fig-cap="Zimuzo presenting the project during the day of the hackathon"}
 
-![Team picture](group.jpeg){fig-cap="Team picture during the presentation"}
+![Team picture](group.jpeg){fig-alt="Team picture during the presentation" fig-cap="Team picture during the presentation"}
 
-![Whole group picture of all attendees](group2.jpg){fig-cap="Team picture after the presentation"}
+![Whole group picture of all attendees](group2.jpg){fig-alt="Whole group picture of all attendees" fig-cap="Team picture after the presentation"}
 :::
 
 

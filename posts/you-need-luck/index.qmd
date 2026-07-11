@@ -5,9 +5,9 @@ date: "2026-06-22"
 date-format: "DD/MM/YYYY"
 ---
 
-I think people bang on about hard work and the hustle to achieve success, but sometimes you just need a little bit of luck. I've been thinking about this a lot lately, especially after watching the YouTube video that [Korty](https://www.youtube.com/@kortyeo) made about Tony Elumelu. You can watch it [here](https://youtu.be/9sCbk_UYUvc?si=oFPi-78ysP2g5nbJ). He said, "At times you don't get successful because you're the best in class or because you're the fittest or because you're the most energetic. At times, you need luck, and I'm a product of luck." You see how much he highlighted the importance of luck in his success.
+I think people bang on about hard work and the hustle to achieve success, but sometimes you just need a little bit of luck. I've been thinking about this a lot lately, especially after watching the YouTube video that [Korty](https://www.youtube.com/@kortyeo) made about Tony Elumelu. You can watch it [here on youtube](https://youtu.be/9sCbk_UYUvc?si=oFPi-78ysP2g5nbJ). He said, "At times you don't get successful because you're the best in class or because you're the fittest or because you're the most energetic. At times, you need luck, and I'm a product of luck." You see how much he highlighted the importance of luck in his success.
 
-![Tony Elumelu with subtitle 'I'm a product of luck'](luck pic.png){fig-cap="Tony Elumelu with subtitle 'I'm a product of luck'"}
+![Tony Elumelu with subtitle 'I'm a product of luck'](luck pic.png){fig-alt="Tony Elumelu speaking with subtitle saying 'I'm a product of luck'" fig-cap="Tony Elumelu with subtitle 'I'm a product of luck'"}
 
 Disclaimer: I never said to stop working hard. 😂
 

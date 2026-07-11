@@ -14,7 +14,7 @@ Of all the books I’ve read, A Little Life is the one I felt compelled to write
 
 Still, while many readers on TikTok describe bawling their eyes out over this story, my reaction was the complete opposite. it filled me with rage. The characters infuriated me to an extreme degree, and I couldn’t hold back my frustration. So here goes nothing.
 
-![A picture of my hand holding a little life book ](thumbnail.JPG){fig-cap="My hand holding *A Little Life*"}
+![A picture of my hand holding a little life book](thumbnail.JPG){fig-alt="A picture of Zimuzo's hand holding a little life book" fig-cap="My hand holding *A Little Life*"}
 
 
 #### **A little background**  
