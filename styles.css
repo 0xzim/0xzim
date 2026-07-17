@@ -11,6 +11,7 @@
     text-underline-offset: .25rem !important;
     line-height: 1.8 !important;
     font-size: .9rem;
+    scroll-behavior: smooth;
 }
 
 h1{
@@ -24,10 +25,19 @@ h1{
 code {
     font-family: inherit !important;
 }
+
+#title-block-header {
+  margin-block-end: 0 !important;
+}
+
 .quarto-title-banner{
     color: inherit;
     background-color: transparent;
+    margin-top: 1rem !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
 }
+
 .quarto-categories, .quarto-category{
     text-transform: lowercase !important;
     border: none !important;

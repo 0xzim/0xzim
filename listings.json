@@ -2,17 +2,17 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/you-need-luck/index.html",
-      "/posts/my-first-hackathon/index.html",
-      "/posts/a-little-life/index.html"
+      "/writing/you-need-luck/index.html",
+      "/writing/my-first-hackathon/index.html",
+      "/writing/a-little-life/index.html"
     ]
   },
   {
-    "listing": "/blog.html",
+    "listing": "/writing/index.html",
     "items": [
-      "/posts/you-need-luck/index.html",
-      "/posts/my-first-hackathon/index.html",
-      "/posts/a-little-life/index.html"
+      "/writing/you-need-luck/index.html",
+      "/writing/my-first-hackathon/index.html",
+      "/writing/a-little-life/index.html"
     ]
   }
 ]
