@@ -5,7 +5,7 @@ about:
   template: solana
 listing:
   id: writings-listing
-  contents: posts
+  contents: "writing/*/index.qmd"
   sort: "date desc"
   date-format: "DD/MM/YYYY"
   max-items: 3
@@ -23,18 +23,16 @@ To get in contact, you can send an [email](mailto:obizimuzo@gmail.com), connect 
 :::{.group}
 ##### **Projects:**
 Context-Aware AI Alt-Text Generation for Web Accessibility (WIP)
-<!-- [Machine Learning Projects](https://github.com/0xzim/ml-challenges){target="_blank"} -->
 
-<!-- [Cyclistic Analysis](https://0xzim.github.io/cyclistic/){target="_blank"}
+Data: [Cyclistic Analysis](https://0xzim.github.io/cyclistic/){target="_blank"}
 
-[Export Performance Analysis](https://app.powerbi.com/view?r=eyJrIjoiNGFiZWJlODItMWVmMi00YzI1LWFlMzgtMjAwM2JiYzczN2Y1IiwidCI6IjBiOGEyNWY5LTg3ZWItNDAzYi04OWU0LTJhNTZlMjJhZGUzYSJ9){target="_blank"} -->
 :::
 
 :::{.group}
 
-##### **Writing:** 
+##### **Writings:** 
 
 :::{#writings-listing}
 :::
-[View all writings →](blog.qmd)
+[View all writings →](writing/)
 :::
