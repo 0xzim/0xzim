@@ -1,6 +1,6 @@
 ---
 title: "Writings"
-
+subtitle: "Welcome into my world of thoughts. Here goes nothing...."
 listing:
   contents: "*/index.qmd"
   sort: "date desc"

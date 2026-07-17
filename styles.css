@@ -1,82 +1,97 @@
 /* css styles */
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=TikTok+Sans:opsz,wght@12..36,300..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=TikTok+Sans:opsz,wght@12..36,300..900&display=swap");
 
 * {
-    box-sizing: border-box;
-    font-optical-sizing: auto;
-    text-align: justify;
-    font-family: "Inconsolata", monospace;
-    font-family: "TikTok Sans", sans-serif;
-    text-underline-offset: .25rem !important;
-    line-height: 1.8 !important;
-    font-size: .9rem;
-    scroll-behavior: smooth;
+  box-sizing: border-box;
+  font-optical-sizing: auto;
+  text-align: justify;
+  font-family: "TikTok Sans", sans-serif;
+  text-underline-offset: 0.25rem !important;
+  line-height: 1.5 !important;
+  font-size: 0.9rem;
+  scroll-behavior: smooth;
 }
 
-h1{
+h1 {
   font-size: 1.2rem !important;
 }
 
-.group{
+.subtitle,
+.lead {
+  font-size: inherit !important;
+  font-weight: inherit !important;
+}
+
+.group {
   margin-bottom: 3rem !important;
 }
 
 code {
-    font-family: inherit !important;
+  font-family: inherit !important;
 }
 
 #title-block-header {
   margin-block-end: 0 !important;
 }
 
-.quarto-title-banner{
-    color: inherit;
-    background-color: transparent;
-    margin-top: 1rem !important;
-    padding-bottom: 0 !important;
-    margin-bottom: 0 !important;
+.quarto-title-banner {
+  color: inherit;
+  background-color: transparent;
+  margin-top: 1rem !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
 }
 
-.quarto-categories, .quarto-category{
-    text-transform: lowercase !important;
-    border: none !important;
+.quarto-categories,
+.quarto-category {
+  text-transform: lowercase !important;
+  border: none !important;
 }
 
-.quarto-post{
-    display: flex !important;
-    justify-content: flex-end !important;
-    border-bottom: none !important;
-    margin-bottom: .8rem !important;
-    padding-bottom: 0 !important;
+.quarto-post {
+  display: flex !important;
+  justify-content: space-between !important;
+  gap: 1rem !important;
+  border-bottom: none !important;
+  margin-bottom: 0.7rem !important;
+  padding-bottom: 0 !important;
 }
 
-.quarto-post > *{
-    flex: 0 0 auto !important;
-    width: auto !important; 
+.quarto-post.image-right {
+  flex-direction: row !important;
 }
 
-.quarto-post .listing-title{
-    font-size: 1rem !important;
-}
-.quarto-post .listing-title:hover{
-    text-decoration: underline !important;
-    transition: text-decoration 0.5s ease-in-out !important;
+.quarto-post > *:first-child {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
-.quarto-title .title{
-    color: black !important;
+.quarto-post > *:last-child {
+  display: flex;
+  align-items: flex-end !important;
+  flex-shrink: 0;
 }
 
-.quarto-post .metadata{
-    font-size: .85em !important;
+.quarto-post .listing-title {
+  font-size: 1rem !important;
+}
+.quarto-post .listing-title:hover {
+  text-decoration: underline !important;
+  transition: text-decoration 0.5s ease-in-out !important;
+}
+
+.quarto-title .title {
+  color: black !important;
+}
+
+.quarto-post .metadata {
+  font-size: 0.85em !important;
 }
 
 @media screen and (min-width: 767.98px) {
-.quarto-post{
+  .quarto-post {
     align-items: center !important;
-    /* margin-bottom: .8rem !important; */
-}
+  }
 }
 
 .grid-2 {
@@ -93,7 +108,7 @@ code {
 /* Make images consistent size */
 .grid-2 img {
   width: 100%;
-  aspect-ratio: 16 / 9; 
+  aspect-ratio: 16 / 9;
   object-fit: cover;
 }
 
@@ -109,13 +124,12 @@ code {
   }
 }
 
-
 /* Make all blog images consistent */
 .quarto-figure img,
 img {
   width: 100%;
   max-width: 100%;
-  aspect-ratio: 16 / 9; 
+  aspect-ratio: 16 / 9;
   object-fit: cover;
   display: block;
 }

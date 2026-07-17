@@ -1,0 +1,17 @@
+---
+title: "I like QA???"
+author: "Zimuzo Obi"
+date: "2026-07-17"
+date-format: "DD/MM/YYYY"
+---
+
+It's been 3 weeks into my role as QA Analyst Intern and I must say, I do like QA.
+I'm not sure why I'm this shocked but as a chronic complainer, this role does suit me 😂😂. What better fun than complaining (i'm not saying the role is just compalining lol) about a software product to make it usable and accessible. 
+
+So far, I've been on the manual testing side of things, writing test cases and writing out the bugs on Jira board. Next up will be the automation side of things using Playwright which I have been familiarising myself, so I pray that goes well. 
+
+Now, If you are reading this, I bet you're confused on why this boy is excited about a job lol. I think i've been really stuck in the figuring out my career path phase that it feels nice say I just enjoy this role. I've seen myself in software development roles/gig, data roles, plus doing my masters in data science, I thought maybe I will settle in data roles but this is an interesting turn of events. These experiences come in handy though as they help with this QA role. 
+
+There's still so much to learn though if I am to stick to QA like all things involved in manual and automation testing, figuring out the things to make priority for testing and the list goes on. I've also been looking at certifications and I think ISTQB is one of the most important. 
+
+Wish me luck, dearest reader.😊 Till next time. xx
