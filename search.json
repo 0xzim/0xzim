@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Zimuzo Obi",
     "section": "",
-    "text": "QA Analyst @ Kaplan International Pathways | MSc Data Science (In progress)\nI just possess skills that you need so maybe just reach out to me lol. To get in contact, you can send an email, connect with me on linkedIn, or see my code contributions on github.\n\n\nProjects:\nContext-Aware AI Alt-Text Generation for Web Accessibility (WIP)\nData: Cyclistic Analysis\n\n\nWritings:\n\n\n\n\n\nMan… Do You Need Luck\n\n\n\n\n\n22/06/2026\n\n\n\n\n\n\n\nMy First Hackathon Experience\n\n\n\n\n\n04/06/2026\n\n\n\n\n\n\n\nA Little Life: Never Again\n\n\n\n\n\n28/11/2025\n\n\n\n\n\nNo matching items\n\nView all writings →"
+    "text": "QA Analyst @ Kaplan International Pathways | MSc Data Science (In progress)\nI just possess skills that you need so maybe just reach out to me lol. To get in contact, you can send an email, connect with me on linkedIn, or see my code contributions on github.\n\n\nProjects:\nContext-Aware AI Alt-Text Generation for Web Accessibility (WIP)\nData: Cyclistic Analysis\n\n\nWritings:\n\n\n\n\n\nI like QA???\n\n\n\n\n\n17/07/2026\n\n\n\n\n\n\n\nMan… Do You Need Luck\n\n\n\n\n\n22/06/2026\n\n\n\n\n\n\n\nMy First Hackathon Experience\n\n\n\n\n\n04/06/2026\n\n\n\n\n\nNo matching items\n\nView all writings →"
   },
   {
     "objectID": "writing/my-first-hackathon/index.html",
@@ -12,6 +12,13 @@
     "title": "My First Hackathon Experience",
     "section": "",
     "text": "During the start of my second semester, our module leader announced a hackathon as part of reinforcing our learnings and for networking as well. Well, as for me, you will always find me where there’s a learning opportunity so I registered to participate. Since I study data science, I had a rough dea of what to expect.\nTruth be told, I wasn’t nervous at all because what’s the worst that can happen? I would just learn and have fun, right?\nOn the day of the hackathon, teams were created and I was in a team with 3 other people (teams must consist of at least one person from a different course).\n\n\n\nTeam formation criteria\n\n\n\nThe Challenge:\nThe core challenge is:\n\nUse NLP, machine learning, visualisation, and critical thinking to analyse how Large Language Models (Gemini and Perplexity) “see” and describe cities and uncover what these descriptions reveal about urban identity, stereotypes, emotions, and bias.\n\nIt’s about interpreting AI‑generated narratives and understanding what they say about culture, geography, inequality, safety, emotions, stereotypes, urban life and then communicating those insights clearly and creatively.\n\n\n\nHackathon Challenge\n\n\nI was lucky to be in a great team as we were able to tackle the problem together and come up with great insights. We all had a lot of fun working together and learning from each other. We made the top 3 that will get to present their solution in front of the whole students and panel. I’m exceptionally proud of what we achieved and the storytelling behind it as that was where our project really shined.\nI think we failed to win as other teams were more creative with their visual presentations but my team and I were more focused on the content and insights. Our analysis revealed clear differences in how Gemini and Perplexity described cities especially around emotion, safety, and stereotypes.\nOverall, it was a great experience and I learned a lot. One thing I really figured out was that I don’t utilise AI enough but we live and we learn. I would definitely participate in another hackathon in the future. It’s a great way to learn, network, and have fun.\nYou can view our presentation slides.\nHere are some pictures from the day:\n\n\n\n\nZimuzo presenting\n\n\n\n\n\nTeam picture\n\n\n\n\n\nWhole group picture of all attendees\n\n\n\nOkay bye xx! 😍"
+  },
+  {
+    "objectID": "writing/i-like-QA/index.html",
+    "href": "writing/i-like-QA/index.html",
+    "title": "I like QA???",
+    "section": "",
+    "text": "It’s been 3 weeks into my role as QA Analyst Intern and I must say, I do like QA. I’m not sure why I’m this shocked but as a chronic complainer, this role does suit me 😂😂. What better fun than complaining (i’m not saying the role is just compalining lol) about a software product to make it usable and accessible.\nSo far, I’ve been on the manual testing side of things, writing test cases and writing out the bugs on Jira board. Next up will be the automation side of things using Playwright which I have been familiarising myself, so I pray that goes well.\nNow, If you are reading this, I bet you’re confused on why this boy is excited about a job lol. I think i’ve been really stuck in the figuring out my career path phase that it feels nice say I just enjoy this role. I’ve seen myself in software development roles/gig, data roles, plus doing my masters in data science, I thought maybe I will settle in data roles but this is an interesting turn of events. These experiences come in handy though as they help with this QA role.\nThere’s still so much to learn though if I am to stick to QA like all things involved in manual and automation testing, figuring out the things to make priority for testing and the list goes on. I’ve also been looking at certifications and I think ISTQB is one of the most important.\nWish me luck, dearest reader.😊 Till next time. xx"
   },
   {
     "objectID": "writing/a-little-life/index.html",
@@ -32,6 +39,6 @@
     "href": "writing/index.html",
     "title": "Writings",
     "section": "",
-    "text": "Man… Do You Need Luck\n\n\n\n\n\n22/06/2026\n\n\n\n\n\n\n\nMy First Hackathon Experience\n\n\n\n\n\n04/06/2026\n\n\n\n\n\n\n\nA Little Life: Never Again\n\n\n\n\n\n28/11/2025\n\n\n\n\n\nNo matching items"
+    "text": "I like QA???\n\n\n\n\n\n17/07/2026\n\n\n\n\n\n\n\nMan… Do You Need Luck\n\n\n\n\n\n22/06/2026\n\n\n\n\n\n\n\nMy First Hackathon Experience\n\n\n\n\n\n04/06/2026\n\n\n\n\n\n\n\nA Little Life: Never Again\n\n\n\n\n\n28/11/2025\n\n\n\n\n\nNo matching items"
   }
 ]

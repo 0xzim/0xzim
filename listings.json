@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/writing/i-like-QA/index.html",
       "/writing/you-need-luck/index.html",
       "/writing/my-first-hackathon/index.html",
       "/writing/a-little-life/index.html"
@@ -10,6 +11,7 @@
   {
     "listing": "/writing/index.html",
     "items": [
+      "/writing/i-like-QA/index.html",
       "/writing/you-need-luck/index.html",
       "/writing/my-first-hackathon/index.html",
       "/writing/a-little-life/index.html"
